@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-jash",
+  "version": "1.0.0",
+  "description": "This is a Currency Converter give you real time view of your own currency created by Rajdeep Jash",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajdeepjash2070/currency-converter-jash.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rajdeep Jash",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rajdeepjash2070/currency-converter-jash/issues"
+  },
+  "homepage": "https://github.com/rajdeepjash2070/currency-converter-jash#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
